@@ -21,3 +21,41 @@ time, mark, audio, video {
 	vertical-align: baseline;
 }
 
+body {
+	background-image: url("assets/johannes-plenio-fmTde1Fe23A-unsplash.jpg");
+	background-position: top;
+	background-size: cover;
+}
+
+header {
+	padding: 1rem;
+}
+
+header h1 {
+	color: white;
+	font-size: 2rem;
+}
+
+main {
+	display: block;
+}
+
+main section {
+	width: 50%;
+	margin: 3rem auto;
+	background-color: white;
+	padding: 2rem;
+	text-align: center;
+	border-radius: 5px;
+}
+
+main section h2 {
+	font-size: 2.5rem;
+}
+
+main section p {
+	font-size: .8rem;
+}
+
+
+
